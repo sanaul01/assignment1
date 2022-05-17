@@ -1,0 +1,30 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 10px 0 10px;
+    padding: 20px 50px 0 50px;
+    height: 2rem;
+}
+
+.logo>img{
+    width:95px;
+}
+
+.n-link{
+    padding: 5px;
+}
+
+.n-link>*{
+    font-size: 24px;
+    font-weight: 550;
+    margin-left: 4rem;
+    text-decoration: none;
+    cursor: pointer;
+    color: black;
+}
+
+.n-link>*:hover{
+    color: orange;
+}
+

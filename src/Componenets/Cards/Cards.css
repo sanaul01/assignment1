@@ -1,0 +1,17 @@
+.cards{
+    display: grid;
+    grid-template-columns: repeat(1, 1fr) 300px;
+    align-content: center;
+    justify-content:center;
+    margin: 34px;
+    
+}
+
+.c-left{
+    border: 1px solid gray;
+    
+}
+
+.c-right{
+    border: 1px solid gray;
+}
