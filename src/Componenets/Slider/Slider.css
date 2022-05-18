@@ -19,10 +19,17 @@
     height: 100%;
     border: 1px solid gray;
     padding: 3px;
-    border-radius: 10px;
+    border-radius: 7px;
     background-color:white;
   }
   
   .s-wrapper .swiper-pagination-bullet-active{
     background: black;
+}
+
+@media (max-width: 768px){
+  .swiper {
+    width: 100%;
+    
+  }
 }

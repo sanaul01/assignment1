@@ -28,3 +28,13 @@
     color: orange;
 }
 
+@media (max-width: 768px){
+    .n-link>*{
+        display: none;
+    }
+
+    .navbar{
+        margin: 0;
+    }
+}
+
