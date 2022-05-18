@@ -12,9 +12,7 @@ const Details = () => {
                 <div className="d-container">
                     <Cards/>
                 </div>
-                
             </div>
-            
         </div>
 
     );
