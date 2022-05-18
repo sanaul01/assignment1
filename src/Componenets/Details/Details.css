@@ -13,12 +13,11 @@
 }
 
 .d-container{
-    height: 400px;
-    background-color: white;
-    border: 1px solid gray;
-    box-shadow: 20px;
+    background: white;
+    border: 1.3px solid gray;
     border-radius: 50px;
     width: 85%;
     margin:  auto;
     margin-top: -250px;
+    box-shadow: 1px 4px 5px rgb(240, 236, 236);
 }

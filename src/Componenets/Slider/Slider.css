@@ -1,0 +1,28 @@
+
+.swiper {
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+  }
+  
+  .swiper-slide {
+    background-position: center;
+    background-size: cover;
+    width: 200px;
+    height: 300px;
+  }
+  
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    border: 1px solid gray;
+    padding: 3px;
+    border-radius: 10px;
+    background-color:white;
+  }
+  
+  .s-wrapper .swiper-pagination-bullet-active{
+    background: black;
+}
